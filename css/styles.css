@@ -1,0 +1,77 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 20px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    color: #212529;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-weight: bold;
+    color: #212529;
+}
+
+/* Estilos del contenido principal */
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #212529;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #212529;
+}
+
+h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #212529;
+}
+
+h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #212529;
+}
+
+p {
+    margin-bottom: 20px;
+    color: #212529;
+}
+
+/* Estilos del índice */
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    color: #212529;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #000102;
+}
